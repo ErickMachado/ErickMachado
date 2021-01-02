@@ -3,23 +3,16 @@
 
 ## 👋 Hi there
 
+My name is Erick, I'm 21 and I love to discuss technology and games.
+
 ## 🎯 My career goal
+
+Become a Airbnb Front-end Engineer.
 
 ## 🌱 Technologies that I'm studying
 
+![](https://img.shields.io/static/v1?label=Framework&message=Vue.js&color=007BFF&style=for-the-badge&logo=vue.js&labelColor=222)
+
 ## 💬 How to reach me
 
-<!--
-**ErickMachado/ErickMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Erick Machado's github stats](https://github-readme-stats.vercel.app/api?username=ErickMachado&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
