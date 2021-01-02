@@ -1,5 +1,5 @@
 
-![](./readme.jpg)
+<img src="./readme.jpg" width="100%">
 
 ## 👋 Hi there
 
