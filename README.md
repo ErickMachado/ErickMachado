@@ -1,5 +1,5 @@
 
-<img src="./readme.jpg">
+<img src="./profile.jpg">
 
 ## 👋 Hi there
 
