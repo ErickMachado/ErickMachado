@@ -1,6 +1,4 @@
 
-<img src="./profile.jpg">
-
 ## 👋 Hi there
 
 My name is Erick, I'm 21 and I love to discuss technology and games.
