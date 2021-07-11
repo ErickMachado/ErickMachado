@@ -17,6 +17,5 @@ Become a Airbnb Front-end Engineer.
 
 - [LinkedIn](https://linkedin.com/in/erickgsantos)
 - [Instagram](https://www.instagram.com/erick_smachado/)
-- [Blog](https://erickmachado.dev.br)
 
 [![Erick Machado's github stats](https://github-readme-stats.vercel.app/api?username=ErickMachado&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
